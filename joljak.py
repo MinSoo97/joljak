@@ -11,6 +11,7 @@ import os
 
 print(cv2.__version__)
 
+
 cap = cv2.VideoCapture(0)
 
 i = 0
